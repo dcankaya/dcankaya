@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### A burgeoning data scientist by day ☼ and an Effective Altruist by night ☾
+#### A burgeoning data scientist by day ☼ and an Effective Altruist by night ☾ <br>
   
 🌱 I’m currently learning Data Science from [Miuul](https://miuul.com) and [İstanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor)<br>
 🏦 I’m currently working the bootcamp finishing project (private unfinished repo on a financial dataset)
