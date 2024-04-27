@@ -6,6 +6,6 @@
 
 💻 I am currently *looking for work* as a junior data scientist. I have an MA in Economics and International Relations. Before falling in love with data, I worked 4 years as a climate change and sustainability consultant in the IFC, EY, and various startups.
 
-💬 Ask me about **AI governance**, **finance**, **sustainability**, **design thinking**, **fitness**. <br>
+💬 Ask me about **AI governance**, **finance**, **sustainability**, **design thinking**, and **fitness**. <br>
 
 ⚡ Fun fact: I am an Effective Altruist, I lived in Scotland for 4 years, and this November I will run my first marathon!
