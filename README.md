@@ -8,4 +8,4 @@
 
 💬 Ask me about **AI governance**, **finance**, **sustainability**, **design thinking**, **fitness**. <br>
 
-⚡ Fun fact: I am an Effective Altruist, I lived in Scotland for 4 years, I love playing chess and I run two half marathons every year. This November I will run my first marathon!
+⚡ Fun fact: I am an Effective Altruist, I lived in Scotland for 4 years, and this November I will run my first marathon!
