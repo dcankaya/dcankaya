@@ -1,9 +1,11 @@
 ### Hi, I'm Dilara. 👋
 
-🔍 Data Scientist with an MA in Economics and International Relations, actively seeking new opportunities in the field.
+🔍 Data Scientist and Economist with a strong foundation in sustainability and innovation, actively seeking new opportunities in the field.
 
-🎓 I recently completed an intensive Data Science bootcamp by [Miuul](https://miuul.com) and [İstanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor), where I honed my skills in machine learning, data analysis, and Python programming. With 4 years of experience as a climate change and sustainability consultant with the IFC, EY, and various startups, I've developed a keen ability to apply data-driven solutions to real-world challenges.
+🎓 I recently completed an intensive Data Science bootcamp by Miuul and İstanbul Kodluyor, where I developed my skills in machine learning, data analysis, and Python programming. My background includes an MA in Economics and International Relations, and 4 years of experience as a climate change and sustainability consultant across various sectors, including work with the IFC and EY.
 
-💻 My latest projects focus on AI governance, financial modeling, and reinforcement learning. I'm particularly interested in deep learning and NLP.
+💻 My GitHub projects showcase my passion for leveraging data science to drive positive change. I’m particularly focused on AI governance, financial modeling, and ESG data integration. I enjoy exploring the intersection of technology, policy, finance, and sustainability, and I’m always looking for new challenges.
 
-💬 I’m always open to collaboration on open-source projects or discussing topics like statistics, AI governance, finance, and fitness. Let's connect!
+🌍 With experience working on global projects and living in the UK for 4 years, I bring a diverse and international perspective to my work. I’m eager to collaborate on open-source projects and connect with others interested in making a tangible impact through data science.
+
+💬 Let’s connect and discuss statistics, AI governance, finance, or fitness!
