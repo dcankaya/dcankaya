@@ -1,9 +1,9 @@
 ### Hi, I'm Dilara. 👋
 
-🔍 Currently *looking for work* as a data scientist. 
+🔍 Data Scientist with an MA in Economics and International Relations, actively seeking new opportunities in the field.
 
-🎓 I recently completed an extensive Data Science bootcamp by [Miuul](https://miuul.com) and [İstanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor). I have an MA in Economics and International Relations, and a 4-year experience as a climate change and sustainability consultant in the IFC, EY, and various startups.
+🎓 I recently completed an intensive Data Science bootcamp by [Miuul](https://miuul.com) and [İstanbul Kodluyor](https://istanbulkodluyor.com/istanbul-kodluyor), where I honed my skills in machine learning, data analysis, and Python programming. With 4 years of experience as a climate change and sustainability consultant with the IFC, EY, and various startups, I've developed a keen ability to apply data-driven solutions to real-world challenges.
 
-💬 Ask me about **statistics**, **AI governance**, **finance**, and **fitness**.
+💻 My latest projects focus on AI governance, financial modeling, and reinforcement learning. I'm particularly interested in deep learning and NLP.
 
-⚡ Fun fact: I lived in Scotland for 4 years!
+💬 I’m always open to collaboration on open-source projects or discussing topics like statistics, AI governance, finance, and fitness. Let's connect!
